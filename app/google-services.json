@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791557903489",
+    "firebase_url": "https://slotprizes.firebaseio.com",
+    "project_id": "slotprizes",
+    "storage_bucket": "slotprizes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791557903489:android:1d92e435b060729e",
+        "android_client_info": {
+          "package_name": "com.example.nick.slotprizes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791557903489-t5mhpfban41evdcbf0lbbeembvledsla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nick.slotprizes",
+            "certificate_hash": "269f720704d0c733212ca1226d695bea03b9a02f"
+          }
+        },
+        {
+          "client_id": "791557903489-jm10opu3pceit4bt5a7um207gf5blrb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNbJjnAWFV-kulJS5RMiK4lVkYDsfP9xU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791557903489-jm10opu3pceit4bt5a7um207gf5blrb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
